@@ -1,1 +1,2 @@
 //csak meglessz már
+most megváltozik ez a fájl és elmentődik, oszt majd tovább tanulom a githubot
